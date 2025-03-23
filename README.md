@@ -1,3 +1,3 @@
-# 🙃 About Me:
-## Heya, I'm AJ ‼️‼️
-📚 1st Year AI Comp Sci Student @ UWA<br>🐢 Engineering Salesforce Solutions for Not-for-profits, charities, and businesses across Western Australia & Australia.<br>🤫 Working on a pretty cool project<br><br><br>
+# 🙃 about me
+## heya, i'm aj ‼️‼️
+📚 1st year ai comp sci student @ uwa<br>🐢 engineering salesforce solutions for not-for-profits, charities, and businesses across western australia & australia.<br>🤫 working on a pretty cool project<br><br><br>
